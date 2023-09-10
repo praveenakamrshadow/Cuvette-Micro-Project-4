@@ -1,1 +1,1 @@
-# micro-project-4
+Calculator web application with HTML, CSS, JavaScript 
